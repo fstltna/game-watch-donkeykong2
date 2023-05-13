@@ -1,0 +1,48 @@
+LIMITED USE SOFTWARE LICENSE AGREEMENT
+
+This Limited Use Software License Agreement (the "Agreement") is a legal
+agreement between you, the end-user, and the Author. By continuing the
+installation of this game program, by loading or running the game program, or
+by placing or copying the game program onto your computer hard drive, computer
+RAM or other storage, you are agreeing to be bound by the terms of this
+Agreement.
+
+
+1.  Grant of License for Software.
+Subject to the terms and conditions of this Agreement, the Author grants to
+you the non-exclusive and limited right to use the Software program in
+executable or object code form only (the "Software") for recreational purposes
+only.
+The term "Software" includes all elements of the Software such as data files,
+images appearing in the Software and screen displays. You are not receiving
+any ownership or proprietary right, title or interest in or to the Software or
+the copyright, trademarks, or other rights related thereto.
+For purposes of this section, "use" means loading the Software into RAM and/or
+onto computer hard drive, as well as installation of the Software on a hard
+disk or other storage device.
+
+
+2.  Prohibitions with Regard to Software.
+You, either directly or in-directly, shall not do any of the following acts:
+  a.  disassemble, reverse engineer, decompile, modify or alter the
+      Software;
+  b.  translate the Software;
+  c.  prepare or develop derivative works based upon the Software;
+
+
+3.  Distribution.
+Permission to use, copy and distribute this Software in binary form, for
+non-commercial purposes, is hereby granted without fee, providing that this
+License information and copyright notice appear with all copies.
+You, either directly or in-directly, shall not do any of the following acts:
+  a.  rent the Software;
+  b.  sell the Software;
+  c.  lease or lend the Software;
+  d.  offer the Software on a pay-per-play basis;
+  e.  distribute the Software on pre-paid access websites or BBS's;
+  f.  use the Software in publications of any form, until written consent is
+      obtained by the Author;
+  g.  distribute the Software through mirror websites, until written consent
+      is obtained by the Author;
+  h.  distribute older versions of the Software while newer ones are available
+      through authorized mirror websites.

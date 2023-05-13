@@ -1,0 +1,6 @@
+April 3rd, 2001 - Release S3/1.01a (Standard 3, minor bug-fix)
+Fixed a minor bug in the game speed routines 
+
+March 28th, 2001 - Release S3/1.01 (Standard 3, final)
+New standard: totally rewritten sound routines. Fmod sound library 3.31 added;
+small bug-fixes and audio settings saving routines

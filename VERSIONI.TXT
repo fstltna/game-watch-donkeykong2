@@ -1,0 +1,52 @@
+RELEASE S3/1.01a (Standard 3, minor bug-fix)
+03apr01: Eliminato un piccolo bug dalle routines del calcolo della velocita'
+         di gioco
+
+RELEASE S3/1.01 (Standard 3, final)
+28mar01: Implementata la FMod.dll 3.31 per migliore compatibilita'
+17mar01: Piccoli bug-fix e routines per conservare le impostazioni audio 
+
+RELEASE S3/1.00 (Standard 3, final)
+20feb01: Eliminati alcuni bugs di collisione; beta-testing
+19feb01: Aggiunta l'immgine frontale del gioco; campionata ed aggiunta la
+         musica della chance-time; implementata la chance-time; implementati i
+         livelli, le velocita' di gioco e i valori dei bonus intermedi;
+         completata la routine per il game over
+13feb01: Implementato il punteggio per il salto di tagliole e scariche
+         elettriche; routines preliminari per il bonus finale; campionate ed
+         aggiunti altri effetti sonori
+11feb01: Aggiunte le routines per il lampeggio delle scariche elettriche;
+         implementato l'output audio mediante il DirectSound; rimossi alcune
+         imprecisioni nelle routines di collisione
+07feb01: Scansionata l'immagine frontale del gioco elettronico; completate le
+         routines delle collisioni; implementate le prime routines dei bonus
+         e dell'uso delle chiavi
+06feb01: Implementate le velocita' di gioco e le routines per la perdita delle
+         vite e per il game over; implementato il salvataggio dello HiScore
+         mediante il registro di sistema; campionate ed aggiunte altre
+         musiche; routines preliminari sulle collisioni
+03feb01: Implementato l'uso della libreria "Fmod" per la gestione degli
+         effetti sonori (migliore resa e minori richieste di risorse);
+         aggiunto lo splash-screen e lo schermo "about"; inserita l'opzione
+         per la disattivazione dell'audio nello splash-screen
+21gen01: Rielaborazione della grafica del manuale; compilato il "Manual.EXE"
+20gen01: Completate le routines per il movimento dei nemici; inserito il popup
+         menu, lo schermo introduttivo all'avvio del programma e lo schermo
+         "about"
+16gen01: Campionate ed aggiunte altre musiche; modificato lo standard grafico;
+         gestione delle chiavi; routines preliminari per il movimento dei
+         nemici
+15gen01: Routines preliminari per il movimento di Junior; campionate ed
+         aggiunte le prime musiche; routines per la scenetta d'avvio gioco;
+         implementato il punteggio mediante LCD; inserito un controllo per
+         verificare se il gioco e' installato correttamente
+12gen01: Ancora routines per la gestione dei tasti
+27nov00: Routines preliminari per la gestione dei tasti; implementato
+         l'orologio mediante LCD
+26nov00: Completata la rielaborazione delle immagini; cominciato il codice
+         Delphi; disegnata ed inserita l'icona principale; mappati gli sprites
+         sul display LCD; implementato il trascinamento del form del gioco
+24nov00: Ancora rielaborazione delle immagini
+23nov00: Ancora rielaborazione delle immagini
+20nov00: Eseguite le scansioni del gioco elettronico; cominciata la
+         rielaborazione delle immagini
